@@ -1,0 +1,29 @@
+.font-center {
+    text-align: center;
+    background-color: #1a75ff;
+    padding-top:50px;
+    color: #fff;
+}
+
+p, .loc {
+    padding: 20px;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.display-4 {
+    font-family: 'Lobster', cursive;
+}
+
+.lead {
+    font-size: 30px;
+}
+
+.form-style {
+    width: 40%;
+    padding: 50px;
+    margin: 0 auto 0 auto;
+    text-align: center;
+    background-color: #1aff1a;
+    border-radius: 40px;
+}
